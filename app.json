@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "image-cache",
+    "slug": "image-cache",
+    "version": "1.0.0",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.frankcalise.imagecache"
+    },
+    "ios": {
+      "bundleIdentifier": "com.frankcalise.imagecache"
+    }
+  }
+}
